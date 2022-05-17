@@ -1,7 +1,7 @@
-# Budget Tracker PWA
+# Tech Blog MVC
   ![Github licence](http://img.shields.io/badge/license-ISC-blue.svg)  
   ## Description 
-  Updating an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection.
+  A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
